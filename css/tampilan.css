@@ -1,0 +1,52 @@
+body
+{
+    background-image: url('../gambar//kopiBackron.jpeg');
+    background-size: cover;
+}
+
+
+.bg-putih
+{
+    background-color: white;
+}
+
+.margin-atas-50
+{
+    margin-top: 50px;
+}
+
+.border-tumpul
+{
+    border-radius: 10px;
+}
+
+.paddingnya-15
+{
+    padding: 15px;
+}
+
+.paddingnya-100
+{
+    padding: 100px;
+}
+
+
+.judulHeader
+{
+    color: white;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 60px;
+}
+
+.judulSlogan
+{
+    color:white;
+    margin: 20px;
+}
+
+
+.container
+{
+    margin-bottom: 30px;
+}
